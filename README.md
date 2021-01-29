@@ -1,4 +1,5 @@
 # MCMod
-Learning MC Mod
+
+Learning MC Mod on Udemy.
 
 Evertything is inside Forge folder.
